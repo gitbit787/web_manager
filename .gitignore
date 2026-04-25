@@ -1,0 +1,7 @@
+#python -m venv /home/dev/web_manager
+
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
